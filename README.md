@@ -9,6 +9,6 @@ Fits in standard Neutrik type-D mount holes
 
 Uses standard Neutrik-sized bolts - M3, 4/40
 
-Designed for use with YC8 push-pull panel mount connectors
+For use with YC8 push-pull panel mount connectors
 
 Test Prints done in Imagine Black Resin from JLC3DP
